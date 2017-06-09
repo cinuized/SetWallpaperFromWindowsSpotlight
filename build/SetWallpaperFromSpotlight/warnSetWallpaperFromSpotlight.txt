@@ -1,0 +1,73 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, c:\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.markers, pkg_resources._vendor.packaging.requirements
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named StringIO - imported by PyInstaller.lib.modulegraph.util, PyInstaller.lib.modulegraph.zipio, PyInstaller.lib.modulegraph.modulegraph, pkg_resources._vendor.six
+missing module named __builtin__ - imported by PIL.Image, future.builtins.misc, future.utils, past.types, past.builtins.noniterators, past.builtins, past.builtins.misc, pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named _dbm - imported by dbm.ndbm
+missing module named gdbm - imported by anydbm, future.moves.dbm.gnu
+missing module named _gdbm - imported by dbm.gnu
+missing module named dumbdbm - imported by anydbm, future.moves.dbm.dumb
+missing module named anydbm - imported by future.moves.dbm
+missing module named dbhash - imported by anydbm
+missing module named whichdb - imported by future.moves.dbm, anydbm
+missing module named _scproxy - imported by urllib.request, future.backports.urllib.request
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named dummy_thread - imported by cffi.lock, future.backports.misc
+missing module named thread - imported by cffi.lock, cffi.cparser, future.backports.misc, PyInstaller.loader.pyimod02_archive
+missing module named future_builtins - imported by future.builtins.misc
+missing module named UserDict - imported by PyInstaller.compat
+missing module named 'PyInstaller.lib.macholib.compat' - imported by PyInstaller.lib.macholib.MachO
+missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph
+missing module named urllib.pathname2url - imported by urllib, PyInstaller.lib.modulegraph.modulegraph
+missing module named pyimod00_crypto_key - imported by PyInstaller.loader.pyimod02_archive
+missing module named _sysconfigdata - imported by sysconfig
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources, setuptools.dist, setuptools.command.egg_info
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named resource - imported by posix, test.support, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named posix - imported by os, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named 'org.python' - imported by pickle, xml.sax, setuptools.sandbox, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named ce - imported by os, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named readline - imported by cmd, code, pdb, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, PyInstaller.loader.pyimod02_archive, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named _winreg - imported by platform, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py, pkg_resources._vendor.appdirs
+missing module named java - imported by platform, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named vms_lib - imported by platform, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named termios - imported by tty, getpass, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named urllib.splittag - imported by urllib, setuptools.py26compat
+missing module named grp - imported by tarfile, shutil, distutils.archive_util, pathlib, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named _dummy_threading - imported by dummy_threading, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, distutils.util, distutils.archive_util, netrc, getpass, pathlib, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named org - imported by copy, D:\workspace\pythonscripts\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight\SetWallpaperFromSpotlight.py
+missing module named PIL._webp - imported by PIL, PIL.WebPImagePlugin
+missing module named Tkinter - imported by PIL.ImageTk
+missing module named 'PySide.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt
+missing module named _imaging_gif - imported by PIL.GifImagePlugin
+missing module named cStringIO - imported by cffi.ffiplatform, cPickle
+missing module named copy_reg - imported by cStringIO, cPickle
+missing module named md5 - imported by pycparser.ply.yacc
+missing module named cPickle - imported by pycparser.ply.yacc
+missing module named lex - imported by pycparser.ply.yacc
+missing module named cffi._pycparser - imported by cffi, cffi.cparser
+missing module named testing - imported by cffi.recompiler
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.monkey, setuptools.dist, setuptools.depends, setuptools.command.easy_install, setuptools.sandbox, setuptools.package_index, setuptools.command.egg_info, setuptools.command.sdist, setuptools.command.bdist_egg, setuptools.unicode_utils
+missing module named setuptools_svn - imported by setuptools.command.egg_info
+missing module named urllib2 - imported by setuptools.package_index
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info
+missing module named wincertstore - imported by setuptools.ssl_support
+missing module named 'backports.ssl_match_hostname' - imported by setuptools.ssl_support
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension
